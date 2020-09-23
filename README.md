@@ -1,0 +1,2 @@
+# qsl
+q stats library
